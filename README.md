@@ -1,5 +1,5 @@
-# 🌐 GlucoSense Frontend try 
-## https://frontend-two-navy-46.vercel.app/
+# 🌐 GlucoSense Frontend 
+## Try ->  https://frontend-two-navy-46.vercel.app/
 Modern **React + TypeScript** frontend for the **GlucoSense Health Monitoring Platform** — an intelligent system that bridges patients and doctors through AI-powered health insights.
 
 ---
